@@ -1,0 +1,31 @@
+name- harsh mohan shrivastav
+email- harshmohaan@gmail.com
+DAY 1 ASSIGNMENT 
+LETSUPGRADE BLOCKCHAIN
+
+Question 1: What is your understanding of Block chain?
+Blockchain is a mixed technology which consist Distributed Database and cryptography, by using blockchain. A block chainis essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain. Each block in the chain contains a number of transactions, and every time a new transaction occurs on the blockchain, a record of that transaction is added to every participant’s ledger. The Blockchain should be?Verifiable?Unchanged?Tamperproof?Immutable
+
+
+2. Core problems blockchain trying to solve:
+1.Authenticity
+2.Security
+3.Need to have a strong third party for trust.
+3. Whatare few features blockchain will give u?
+1.Data transparency
+2.Verifiable
+3.Huge security boost
+4.No hacking
+5.Decentralized.
+
+4. Whatthings does block contains?
+a)Block number
+b)Transaction records
+c)Previous fingerprints
+d)Mining keys.
+
+5. Verifiabilityof block chain?
+Blockchain is mix technology of distributed database and cryptography.Distributed database means it will contain same data for every system and cryptography will attain this verifiabilityI.e for every block there will be secured block signature for the first block the signature is zero and for the second block the first block’s signature is added as the i.e previous signaturekey like that it will go on for the entire block chain so that every block can be verified will n number of distributed systems that is called verifiability of block chain.
+
+Block 1=0+A=B
+Block 2=B+C=D  here A and C are data to be stored in blocks
